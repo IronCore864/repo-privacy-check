@@ -1,5 +1,7 @@
 # Description
 
+Detect if you have public repos in your github organization that you don't want to be public.
+
 Use GitHub API v3 to get all public repositories under a given organization and send notice to slack channel.
 
 # Dependencies
